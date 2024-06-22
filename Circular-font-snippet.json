@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "Circular",
+    "previewText": "Google Sans is a geometric sans-serif typeface designed by Google for use as a corporate branding face",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Black.otf?raw=1",
+        "ggsans-Bold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Bold.otf?raw=1",
+        "ggsans-BoldItalic": "https://github.com/xe1even/Circular/blob/main/CircularStd-BoldItalic.otf?raw=1",
+        "ggsans-ExtraBold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Black.otf?raw=1",
+        "ggsans-ExtraBoldItalic": "https://github.com/xe1even/Circular/blob/main/CircularStd-BlackItalic.otf?raw=1",
+        "ggsans-Medium": "https://github.com/xe1even/Circular/blob/main/CircularStd-Medium.otf?raw=1",
+        "ggsans-MediumItalic": "https://github.com/xe1even/Circular/blob/main/CircularStd-MediumItalic.otf?raw=1",
+        "ggsans-Normal": "https://github.com/xe1even/Circular/blob/main/CircularStd-Book.otf?raw=1",
+        "ggsans-NormalItalic": "https://github.com/xe1even/Circular/blob/main/CircularStd-BookItalic.otf?raw=1",
+        "ggsans-Semibold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Medium.otf?raw=1",
+        "ggsans-SemiboldItalic": "https://github.com/xe1even/Circular/blob/main/CircularStd-MediumItalic.otf?raw=1",
+        "NotoSans-Bold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Bold.otf?raw=1",
+        "NotoSans-ExtraBold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Black.otf?raw=1",
+        "NotoSans-Medium": "https://github.com/xe1even/Circular/blob/main/CircularStd-Medium.otf??raw=1",
+        "NotoSans-Normal": "https://github.com/xe1even/Circular/blob/main/CircularStd-Book.otf?raw=1",
+        "NotoSans-NormalItalic": "https://github.com/xe1even/Circular/blob/main/CircularStd-BookItalic.otf?raw=1",
+        "NotoSans-Semibold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Medium.otf?raw=1",
+        "SourceCodePro-Semibold": "https://github.com/xe1even/Circular/blob/main/CircularStd-Medium.otf?raw=1"
+    }
+}
